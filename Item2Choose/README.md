@@ -1,4 +1,4 @@
-##使用說明：
+## 使用說明：
   利用 broadcast "OnStage/OffStage" 啟動/結東
   參數：lcRoleX, lcRoleY, 設定出現位置
               lcRoleBetweenX 設定物的間隔
