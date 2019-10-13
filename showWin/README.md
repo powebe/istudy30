@@ -8,5 +8,4 @@
 用事件 showWin 來呈現動畫結果
 ## 註：
 # ==changelog==
-## v010: 2019/10/12
-從 MontyHall 修改而來
+- v010: 2019/10/12 從 MontyHall 修改而來
