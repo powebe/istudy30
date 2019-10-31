@@ -3,8 +3,6 @@
 - 改變 gLifeLeft 來決定剩幾條命
 ## 設定：
 - gLifeLeft、gClearLifeClone 必需是 global
-
-
 ## 參數：
 - lcX, lcY, 設定第1個出現的位置
 -  lcSize 設定大小 
