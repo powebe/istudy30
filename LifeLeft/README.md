@@ -3,7 +3,8 @@
 ## 設定：gLifeLeft、gClearLifeClone 必需是 global
 改變 gLifeLeft 來決定剩幾條命
 
-## 參數：lcX, lcY, 設定第1個出現的位置
+## 參數：
+- lcX, lcY, 設定第1個出現的位置
 -  lcSize 設定大小 
 -  lcBetweenX (間距自動計算)
 ##  特效：放在自訂 block 中
