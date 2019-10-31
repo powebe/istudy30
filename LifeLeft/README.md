@@ -11,7 +11,8 @@
 -  lcBetweenX (間距自動計算)
 ##  特效：
 放在自訂 block 中
-## 註：forever 中，用 lcObjNsame 來避免 obj 重覆 時，會出現誤刪 clone 的問題
+## 註：
+在 forever block 中，應使用用 lcObjNsame 來判斷避免 obj 重覆 時，會出現誤刪 clone 的問題
 # ==changelog==
 - v01x: 「增加命」，如何處理?
 - v010: 2019/10/31初版
