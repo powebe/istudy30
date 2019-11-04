@@ -4,3 +4,6 @@
 * 將 *.sprite2 檔加入 scratch project 即可使用
 * 依需要修改 object「參數」
 * 統一採用 「broadcast」方式啟動
+## 連結到 物件庫 Object Studio
+ Object Studio @scratch.mit.edu 網址
+- https://scratch.mit.edu/studios/25194614/
