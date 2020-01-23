@@ -1,5 +1,6 @@
-## 使用說明：
-利用 broadcast 
+# 使用說明：
+可以利用 clone  方式，建立數字群組，用來顯示各種數字，例如分數、成績、百分比等
+- 利用 broadcast 
 *            CreatClnNumGroup 創建 cloneGroup
 *            showClnNumGroup 顯示
 *            hideClnNumGroup 隱藏
@@ -16,9 +17,7 @@
 單純顯示在螢幕
  註：g開頭的變數，都要設成 global (for all sprite)
 ## ==changelog==
-* v025: 2020/01/23版
-
+- v025: 2020/01/23版
 整理程式、加寫註解
-* v024: 2019/6/6 版
-
+- v024: 2019/6/6 版
 源自 clnNum-v20.sb2 
