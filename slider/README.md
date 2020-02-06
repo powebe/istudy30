@@ -1,7 +1,7 @@
 # SliderMulti-v013 使用說明：
 - 利用 broadcast "SliderOn" 事件啟動，用滑桿左右移動
 - 選擇輸入數字之結果，存放在 gSliderValue 
-- 用 gObjName 搭配 broadcase 來區分呼叫物件
+- 用 gActiveSpriteName=自訂的lcSpriteName 搭配 broadcase 來區分呼叫物件
 ## 設定：
 - gActiveSpriteName, gSliderValue 必需是 global
 ## 參數：
