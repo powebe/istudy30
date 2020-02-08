@@ -15,6 +15,8 @@
 ## 註：
 在 gActiveSpriteName=lcSpriteName 來避免 obj 重覆使用，會出現衝突的問題
 # ==changelog==
+- v014: 2020/02/08
+修正按下滑鼠後，有時橫桿不會消失的 bug
 - v013: 2020/02/02
 可以產生2個以上的滑桿 (未完成)
 - lcMaxSliders = 2，但回傳值未完成
