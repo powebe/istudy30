@@ -15,6 +15,10 @@
 ## 註：
 在 gActiveSpriteName=lcSpriteName 來避免 obj 重覆使用，會出現衝突的問題
 # ==changelog==
+- v015: 2020/02/10
+新增具有最小值 lcMinValue、預設值 lcDefaultValue(未完成);
+滑鼠移動太快，dot 圓圈會跟不上 
+ （v-014 以前用 touching mouse 來偵測 dot 的移動）
 - v014: 2020/02/08
 修正按下滑鼠後，有時橫桿不會消失的 bug
 - v013: 2020/02/02
